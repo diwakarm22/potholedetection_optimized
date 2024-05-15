@@ -1,0 +1,6 @@
+path: D:\Workspace\Research\YoloV8\dataset\
+train: D:\Workspace\Research\YoloV8\dataset\train\images
+val: D:\Workspace\Research\YoloV8\dataset\valid\images
+
+names:
+  0: pathole
