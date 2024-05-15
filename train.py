@@ -8,4 +8,4 @@ model = YOLO("yolov8n.yaml")
 model.train(data="config.yaml", epochs=1)
 
 # Save trained model
-model.save("Path_hole.pt")
+#model.save("Path_hole.pt")
